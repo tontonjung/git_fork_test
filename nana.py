@@ -4,3 +4,5 @@ name = "파이썬"
 
 print(f"Im {name}. age is {n}.")
 
+for i in range(10):
+    print(i)
